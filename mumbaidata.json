@@ -1,0 +1,2116 @@
+{
+  "city": "Mumbai",
+  "localities": [
+    {
+      "name": "Worli",
+      "PricingAndMarketTrends": {
+        "apartment_avg_rate_per_sqft": 42000,
+        "villa_avg_rate_per_sqft": null,
+        "apartment_rental_yield_percent": 3.5,
+        "villa_rental_yield_percent": null,
+        "appreciation_last_4yrs_percent": 28,
+        "projected_appreciation_next_3yrs_percent": 7,
+        "supply_demand_ratio": "Demand ≈ Supply"
+      },
+      "DevelopmentActivity": {
+        "key_developers": ["Lodha Group", "Oberoi Realty", "Raheja Universal", "Indiabulls Real Estate"],
+        "dominant_property_type": "Sea-facing high-rise luxury apartments and penthouses",
+        "projects": [
+        {
+  "project_name": "Lodha World One",
+  "developer": "Lodha Group",
+  "property_type": "Residential Skyscraper",
+  "location": {
+    "area": "Worli, Lower Parel (Lodha Place)",
+    "city": "Mumbai",
+    "address": "Lodha Place, off Senapati Bapat Marg, Worli, Mumbai, Maharashtra 400013, India",
+    "google_maps_url": "https://maps.google.com/?q=Lodha+World+One+Mumbai"
+  },
+  "key_dates": {
+    "launch_date": "2011-11-29",
+    "start_date": "2011-05-07",
+    "completion_date": "2020"
+  },
+  "status": "Completed",
+  "height_m": 280.2,
+  "floors_above": 76,
+  "floors_below": 2,
+  "architect": "Pei Cobb Freed & Partners",
+  "structural_engineer": "Leslie E. Robertson Associates",
+  "interior_designer": "Giorgio Armani",
+  "total_cost_usd": 321000000,
+  "land_area_ac": 17.5,
+  "unit_configurations": [
+    {"type": "3 BHK", "size_sqft": "1583–1722", "units": null},
+    {"type": "4 BHK", "size_sqft": "1942–2267", "units": null},
+    {"type": "5 BHK", "size_sqft": "3710–3795", "units": null},
+    {"type": "Villas (4–5 BHK)", "size_sqft": null, "units": null}
+  ],
+  "pricing": {
+    "apartments_inr_cr": {"min": 7.87, "max": 27.32},
+    "villas_inr_cr": {"min": 38.8, "max": 54.95},
+    "currency": "INR"
+  },
+  "payment_plan": "Contact sales team",
+  "amenities": [
+    "Swimming Pool (Adult + Kid’s)",
+    "Padel Court",
+    "Basketball Court",
+    "Event Lawn",
+    "Ping Pong",
+    "Yoga Deck",
+    "Botanical Garden",
+    "Outdoor Kid’s Play Areas",
+    "Outdoor Gym Area",
+    "Seating Deck",
+    "BBQ Area",
+    "Gymnasium",
+    "Multipurpose Hall",
+    "Kid’s Play Area",
+    "Landscaped Shaded Seating Area",
+    "Club W (5‑level clubhouse)",
+    "Spa & Wellness Center",
+    "Tennis Court",
+    "Cricket Pitches",
+    "Volleyball Courts",
+    "Private Theatre",
+    "Grand Ballroom",
+    "Indoor Courts",
+    "Rooftop Arena"
+  ],
+  "location_advantages": {
+    "sea_link": "20 min to Bandra‑Worli Sea Link",
+    "airport": "30 min to Mumbai International Airport",
+    "station": "Walking distance to Lower Parel Station",
+    "community": "Part of Mumbai Mile — luxury residences, business, hotels; near schools, hospitals, malls"
+  },
+  "certifications": ["IGBC LEED Gold registered"],
+  "description": "World One is a landmark 76‑floor (plus 2 basement) residential skyscraper rising 280.2 m on a 17.5‑acre site. Designed by Pei Cobb Freed with Armani/Casa interiors, it was built at an estimated cost of US$321 million and completed in 2020. It offers 3–5 BHK apartments and villas within the World Towers complex, featuring extensive luxury amenities and prime connectivity in Mumbai." ,
+  "sales_tags": ["Armani interiors", "sea‑views", "high‑rise luxury", "LEED Gold"],
+  "sales_agent_metadata": {
+    "inventory_left": null,
+    "booking_status": "Completed / Ready to Move",
+    "priority": "High"
+  },
+  "images": {
+    "exterior": ["turn0image1","turn0image5","turn0image6","turn0image8"],
+    "amenity": [],
+    "interior": []
+  },
+  "desirability": {
+      "subscores": {
+        "Accessibility to Transport Nodes": 7,
+        "Proximity to Healthcare": 9,
+        "Proximity to Educational Institutions": 5,
+        "Shopping & Daily Needs": 9,
+        "Surrounding Infrastructure Quality": 9,
+        "Social & Recreational Access": 9,
+        "Safety & Noise Environment": 9
+      },
+      "score": 8.76
+    },
+    "investment_grade": {
+      "subscores": {
+        "Rental Yield (Past 3-Year Avg)": 8,
+        "Expected Rental Yield Growth": 8,
+        "Capital Appreciation (Past 3 Years)": 8,
+        "Expected Capital Appreciation": 7,
+        "Supply-Demand Ratio": 6,
+        "Affordability Index": 2,
+        "Tenant Demand Score": 9
+      },
+      "score": 5.83
+    },
+    "final_score": 7.36
+},
+{
+  "project_name": "Oberoi Three Sixty West",
+  "developer": "Oberoi Realty",
+  "property_type": "Mixed-use Development (Residential and Hotel)",
+  "location": {
+    "area": "Worli",
+    "city": "Mumbai",
+    "address": "Three Sixty West, Dr Annie Besant Rd, next to Old Passport Office, Worli, Mumbai, Maharashtra 400018",
+    "google_maps_url": "https://maps.google.com/?q=Three+Sixty+West+Worli+Mumbai"
+  },
+  "key_dates": {
+    "launch_date": null,
+    "start_date": null,
+    "completion_date": "2022-06-01"
+  },
+  "status": "Completed",
+  "height_m": null,
+  "floors_above": null,
+  "floors_below": null,
+  "architect": "Kohn Pedersen Fox (KPF)",
+  "structural_engineer": "Leslie E. Robertson Associates",
+  "interior_designer": "Ritz-Carlton (Management & Design Oversight)",
+  "total_cost_usd": null,
+  "land_area_ac": 1.58,
+  "unit_configurations": [
+    { "type": "4 BHK", "size_sqft": "5235–5600", "units": null,"starting_price_inr_cr":45 },
+    { "type": "5 BHK", "size_sqft": "6651–7100", "units": null,"starting_price_inr_cr":57 },
+    { "type": "Duplex / Penthouse", "size_sqft": "Above 7100", "units": null }
+  ],
+  "pricing": {
+    "apartments_inr_cr": { "min": 45.00, "max": 70.00 },
+    "villas_inr_cr": null,
+    "currency": "INR"
+  },
+  "payment_plan": "Custom payment terms available upon inquiry",
+  "amenities": [
+    "Swimming Pool",
+    "Gymnasium",
+    "Spa",
+    "Kids’ Play Areas",
+    "Yoga Area",
+    "Jogging / Cycle Track",
+    "Indoor Games Room",
+    "Multipurpose Hall",
+    "Party Lawn",
+    "Clubhouse",
+    "Private Elevators",
+    "Club 360 – Sports, Fitness, Relaxation Zones",
+    "Concierge Service",
+    "In-residence Dining / Catering",
+    "Banquet Facility (via Ritz-Carlton)",
+    "24/7 CCTV & Secure Access",
+    "Landscaped Gardens"
+  ],
+  "location_advantages": {
+    "sea_link": "Direct access to Bandra-Worli Sea Link",
+    "airport": "Approx. 35 min to Mumbai International Airport",
+    "station": "Close to Lower Parel & Prabhadevi Railway Stations",
+    "community": "Prime sea-facing Worli location near malls, schools, hospitals; excellent connectivity via Coastal Road"
+  },
+  "certifications": ["MahaRERA Registered"],
+  "description": "Oberoi Three Sixty West is a landmark mixed-use luxury development comprising The Ritz-Carlton Hotel and branded residences in Worli, Mumbai. Completed in 2022, this twin-tower complex offers expansive 4–5 BHK apartments, duplexes, and penthouses managed by The Ritz-Carlton. With exclusive access to Club 360 and hotel-style services, the project is known for spacious layouts, privacy, and Arabian Sea views.",
+  "sales_tags": [
+    "sea-view",
+    "Ritz-Carlton managed",
+    "ultra-luxury",
+    "ready to move"
+  ],
+  "sales_agent_metadata": {
+    "inventory_left": 284,
+    "booking_status": "Ready to Move",
+    "priority": "Very High"
+  },
+  "images": {
+    "exterior": ["turn0image0", "turn0image1", "turn0image2"],
+    "amenity": [],
+    "interior": []
+  },
+  "desirability": {
+      "subscores": {
+        "Accessibility to Transport Nodes": 7,
+        "Proximity to Healthcare": 9,
+        "Proximity to Educational Institutions": 5,
+        "Shopping & Daily Needs": 9,
+        "Surrounding Infrastructure Quality": 9,
+        "Social & Recreational Access": 9,
+        "Safety & Noise Environment": 9
+      },
+      "score": 8.76
+    },
+    "investment_grade": {
+      "subscores": {
+        "Rental Yield (Past 3-Year Avg)": 8,
+        "Expected Rental Yield Growth": 8,
+        "Capital Appreciation (Past 3 Years)": 8,
+        "Expected Capital Appreciation": 7,
+        "Supply-Demand Ratio": 6,
+        "Affordability Index": 2,
+        "Tenant Demand Score": 9
+      },
+      "score": 5.83
+    },
+    "final_score": 7.36
+},
+{
+  "project_name": "Four Seasons Private Residences Mumbai",
+  "developer": "Provenance Land Pvt. Ltd",
+  "property_type": "Residential Skyscraper",
+  "location": {
+    "area": "Worli",
+    "city": "Mumbai",
+    "address": "1H, 136, Dr Elijah Moses Rd, Gandhi Nagar, Upper Worli, Worli, Mumbai, Maharashtra 400018, India",
+    "google_maps_url": "https://maps.google.com/?q=Four+Seasons+Private+Residences+Mumbai"
+  },
+  "key_dates": {
+    "launch_date": null,
+    "start_date": null,
+    "completion_date": "2021-12-01"
+  },
+  "status": "Completed",
+  "height_m": 250,
+  "floors_above": 64,
+  "floors_below": null,
+  "architect": "Gensler",
+  "structural_engineer": null,
+  "interior_designer": "Yabu Pushelberg (New York)",
+  "landscape_architect": "P Landscape (Bangkok)",
+  "total_cost_usd": null,
+  "land_area_ac": 4.5,
+  "unit_configurations": [
+    { "type": "3 BHK Simplex", "size_sqft": "3200", "units": null ,"starting_price_inr_cr":12.71},
+    { "type": "4 BHK Simplex", "size_sqft": "3200–3400", "units": null ,"starting_price_inr_cr":19.06},
+    { "type": "4/5 BHK Duplex", "size_sqft": "4900–5100", "units": null,"starting_price_inr_cr":20.65 },
+    { "type": "5/6 BHK Garden Duplex", "size_sqft": "5700–6100", "units": null ,"starting_price_inr_cr":28.2},
+    { "type": "5/6 BHK Penthouse", "size_sqft": "6400–6800", "units": null }
+  ],
+  "pricing": {
+    "apartments_inr_cr": { "min": 12.71, "max": 28.2 },
+    "villas_inr_cr": null,
+    "currency": "INR"
+  },
+  "payment_plan": "Custom payment terms available upon inquiry",
+  "amenities": [
+    "Lap Pool",
+    "Landscaped Gardens",
+    "Children’s Play Area",
+    "Outdoor Dining Areas",
+    "Resident's Club (conference lounge, gym)",
+    "Rooftop Lounge",
+    "Outdoor Cinema",
+    "Yoga Areas",
+    "Spa & Wellness Center",
+    "Access to Four Seasons Hotel amenities"
+  ],
+  "services": [
+    "24-hour Security & Valet",
+    "Maintenance & Landscaping",
+    "Mobile Concierge App",
+    "In-residence Dining",
+    "Laundry & Housekeeping",
+    "Personal Trainers",
+    "Dedicated Residential Services"
+  ],
+  "location_advantages": {
+    "sea_link": "Easy access to Bandra-Worli Sea Link",
+    "airport": "Approx. 35 min to Mumbai International Airport",
+    "station": "Well connected by local rail & road network",
+    "community": "Close to Mahalaxmi Race Course, Willingdon Golf Course, malls, hospitals, schools, and BKC/Nariman Point"
+  },
+  "certifications": ["MahaRERA: P51900022056"],
+  "description": "Four Seasons Private Residences in Worli is a 250m tall, slender luxury tower with 64 floors and just 41 exclusive residences. Developed by Provenance Land, the project is managed by Four Seasons and features ultra-spacious 3 to 6 BHK simplex, duplex, and penthouse layouts. With interiors by Yabu Pushelberg and landscape by P Landscape, it offers hotel-grade amenities, rooftop experiences, and curated wellness facilities.",
+  "sales_tags": [
+    "Four Seasons serviced",
+    "ultra-luxury",
+    "sea-view",
+    "exclusive residences"
+  ],
+  "sales_agent_metadata": {
+    "inventory_left": 41,
+    "booking_status": "Ready to Move",
+    "priority": "Very High"
+  },
+  "images": {
+    "exterior": ["turn0image0", "turn0image1"],
+    "amenity": [],
+    "interior": []
+  },
+  "desirability": {
+      "subscores": {
+        "Accessibility to Transport Nodes": 7,
+        "Proximity to Healthcare": 9,
+        "Proximity to Educational Institutions": 5,
+        "Shopping & Daily Needs": 9,
+        "Surrounding Infrastructure Quality": 9,
+        "Social & Recreational Access": 9,
+        "Safety & Noise Environment": 9
+      },
+      "score": 8.76
+    },
+    "investment_grade": {
+      "subscores": {
+        "Rental Yield (Past 3-Year Avg)": 8,
+        "Expected Rental Yield Growth": 8,
+        "Capital Appreciation (Past 3 Years)": 8,
+        "Expected Capital Appreciation": 7,
+        "Supply-Demand Ratio": 6,
+        "Affordability Index": 2,
+        "Tenant Demand Score": 9
+      },
+      "score": 5.83
+    },
+    "final_score": 7.36
+},
+{
+  "project_name": "Birla Niyaara",
+  "developer": "Birla Estates Pvt. Ltd.",
+  "property_type": "Residential Skyscrapers",
+  "location": {
+    "area": "Worli",
+    "city": "Mumbai",
+    "address": "Pandurang Budhkar Marg, Worli, Mumbai, Maharashtra, India",
+    "google_maps_url": "https://maps.google.com/?q=Birla+Niyaara+Worli+Mumbai"
+  },
+  "key_dates": {
+    "launch_date": "2021-12-01",
+    "handover_date": "2029-03-01"
+  },
+  "status": "Under Construction",
+  "height_m": null,
+  "floors_above": 77,
+  "floors_below": null,
+  "architect": null,
+  "structural_engineer": null,
+  "interior_designer": null,
+  "landscape_architect": null,
+  "total_cost_usd": null,
+  "land_area_ac": 10,
+  "unit_configurations": [
+    { "type": "2 BHK", "size_sqft": "849–1204", "units": null },
+    { "type": "3 BHK", "size_sqft": "1151–1899", "units": null },
+    { "type": "4 BHK", "size_sqft": "1864–3002", "units": null },
+    { "type": "5 BHK", "size_sqft": "2472–4062", "units": null },
+    { "type": "6 BHK Duplex", "size_sqft": "3767–10295", "units": null },
+    { "type": "7 BHK Duplex", "size_sqft": "Up to 11914", "units": null }
+  ],
+  "pricing": {
+    "apartments_inr_cr": { "min": 6.49, "max": null },
+    "villas_inr_cr": null,
+    "currency": "INR"
+  },
+  "payment_plan": "Available on request from Birla Estates sales team",
+  "amenities": [
+    "3 Clubhouses",
+    "Swimming Pools",
+    "Spa & Gymnasium",
+    "Indoor & Outdoor Games Area",
+    "Landscaped Gardens",
+    "Children’s Play Area",
+    "Senior Citizen Zone",
+    "Jogging & Cycling Tracks",
+    "Entertainment Amphitheatre & Cinema",
+    "Multipurpose Halls",
+    "Library Café",
+    "Lounge Areas",
+    "Observatory Deck",
+    "Guest Suites",
+    "Physiotherapy Room",
+    "Skating Rink",
+    "Cricket Pitch"
+  ],
+  "services": [
+    "24x7 Security & Surveillance",
+    "Modular Kitchens in all homes",
+    "LEED Platinum Pre-Certified",
+    "Freehold Land Parcel",
+    "Dedicated Guest Suites"
+  ],
+  "location_advantages": {
+    "sea_link": "Easy access to Bandra-Worli Sea Link",
+    "airport": "Approx. 35 min to Mumbai International Airport",
+    "station": "Proximity to local rail, upcoming metro and monorail lines",
+    "community": "Close to BKC, Nariman Point, schools, hospitals, malls; sea-view location in South Mumbai"
+  },
+  "certifications": ["LEED Platinum Pre-Certified", "RERA: P51900031916 (Phase 1), P51900054455 (Phase 2)"],
+  "description": "Birla Niyaara is a luxury residential project in Worli, Mumbai, offering high-rise towers with 2–7 BHK apartments and duplexes across ~10–14 acres. It is India’s only LEED Platinum Pre-Certified residential project. Developed by Birla Estates, the project features cutting-edge architecture, modular kitchens, and a wide array of modern amenities, including three clubhouses, observatory decks, and guest suites. Located on freehold land with sea views and excellent connectivity.",
+  "sales_tags": [
+    "LEED Platinum",
+    "ultra-luxury",
+    "sea-view",
+    "freehold land"
+  ],
+  "sales_agent_metadata": {
+    "inventory_left": 700,
+    "booking_status": "Open",
+    "priority": "High"
+  },
+  "images": {
+    "exterior": ["turn0image0", "turn0image2"],
+    "amenity": ["turn0image8"],
+    "interior": []
+  },
+   "desirability": {
+      "subscores": {
+        "Accessibility to Transport Nodes": 7,
+        "Proximity to Healthcare": 9,
+        "Proximity to Educational Institutions": 5,
+        "Shopping & Daily Needs": 9,
+        "Surrounding Infrastructure Quality": 9,
+        "Social & Recreational Access": 9,
+        "Safety & Noise Environment": 9
+      },
+      "score": 8.76
+    },
+    "investment_grade": {
+      "subscores": {
+        "Rental Yield (Past 3-Year Avg)": 8,
+        "Expected Rental Yield Growth": 8,
+        "Capital Appreciation (Past 3 Years)": 8,
+        "Expected Capital Appreciation": 7,
+        "Supply-Demand Ratio": 6,
+        "Affordability Index": 2,
+        "Tenant Demand Score": 9
+      },
+      "score": 5.83
+    },
+    "final_score": 7.36
+},
+{
+  "project_name": "Lodha Trump Tower Mumbai",
+  "developer": "Lodha Group",
+  "property_type": "Residential Skyscrapers",
+  "location": {
+    "area": "Worli",
+    "city": "Mumbai",
+    "address": "Next to Shree Simandhar Swami Jain Temple, Worli, Mumbai, Maharashtra 400013, India",
+    "google_maps_url": "https://maps.google.com/?q=Lodha+Trump+Tower+Worli+Mumbai"
+  },
+  "key_dates": {
+    "launch_date": "2017-07-01",
+    "handover_date": "2023-12-01"
+  },
+  "status": "Completed",
+  "height_m": null,
+  "floors_above": 78,
+  "floors_below": null,
+  "architect": null,
+  "structural_engineer": null,
+  "interior_designer": null,
+  "landscape_architect": null,
+  "total_cost_usd": null,
+  "land_area_ac": 6,
+  "unit_configurations": [
+    { "type": "3 BHK", "size_sqft": "1259–1373 (carpet) / 2016–2230 (SBU)", "units": null,"starting_price_inr_cr":9.95 },
+    { "type": "4 BHK", "size_sqft": "1545–1600 (carpet) / 2340–2412 (SBU)", "units": null,"starting_price_inr_cr":11.65 },
+    { "type": "5 BHK", "size_sqft": "2975 (carpet)", "units": null ,"starting_price_inr_cr":22.43}
+  ],
+  "pricing": {
+    "apartments_inr_cr": {
+      "min": 7.67,
+      "max": 22.43
+    },
+    "villas_inr_cr": null,
+    "currency": "INR"
+  },
+  "payment_plan": "Custom payment plans and resale options available upon inquiry",
+  "amenities": [
+    "7-acre Private Park (Lodha Park)",
+    "Gymnasium",
+    "Swimming Pool",
+    "Spa",
+    "Kids' Play Area",
+    "Jogging Track",
+    "Indoor Games",
+    "Party Lawn",
+    "Library",
+    "Evander Holyfield Gym",
+    "Private Jet Service (fractional membership)",
+    "Saint Amand Hospitality Services",
+    "Rooftop Pool",
+    "Exclusive Clubhouse",
+    "Designer Lobbies",
+    "7-tier Security",
+    "Smart Home Features",
+    "Fibre Optic Connectivity",
+    "Full-size Cricket Pitch",
+    "9-hole Putting Green",
+    "Reading Areas",
+    "Organic Herb Garden & Orchard"
+  ],
+  "services": [
+    "Private Jet Concierge",
+    "Saint Amand Hospitality",
+    "Valet and Doorman",
+    "Smart-home automation",
+    "High-speed connectivity",
+    "Personalized concierge desk",
+    "24×7 Security and CCTV"
+  ],
+  "location_advantages": {
+    "sea_link": "20 min to Bandra-Worli Sea Link",
+    "airport": "30 min to Mumbai International Airport",
+    "station": "Nearby Dadar & Curry Road Railway Stations",
+    "community": "Start of Mumbai Mile — surrounded by premium offices, retail, and hotels; near Podar Intl School, Wockhardt Hospital, and Palladium Mall"
+  },
+  "certifications": ["RERA: P51900001339"],
+  "description": "Lodha Trump Tower Mumbai, part of the elite Lodha Park development, is a 78-storey ultra-luxury skyscraper featuring a golden façade and world-class amenities. With 3–5 BHK residences offering panoramic sea, racecourse, and skyline views, it delivers a signature Trump® lifestyle with private jet service, a rooftop pool, designer interiors, and 7-star hospitality services by Saint Amand.",
+  "sales_tags": [
+    "Trump branded",
+    "private park access",
+    "gold façade",
+    "ultra-luxury"
+  ],
+  "sales_agent_metadata": {
+    "inventory_left": 390,
+    "booking_status": "Ready to Move",
+    "priority": "High"
+  },
+  "images": {
+    "exterior": ["turn0image0", "turn0image1"],
+    "amenity": [],
+    "interior": []
+  },
+  "desirability": {
+      "subscores": {
+        "Accessibility to Transport Nodes": 7,
+        "Proximity to Healthcare": 9,
+        "Proximity to Educational Institutions": 5,
+        "Shopping & Daily Needs": 9,
+        "Surrounding Infrastructure Quality": 9,
+        "Social & Recreational Access": 9,
+        "Safety & Noise Environment": 9
+      },
+      "score": 8.76
+    },
+    "investment_grade": {
+      "subscores": {
+        "Rental Yield (Past 3-Year Avg)": 8,
+        "Expected Rental Yield Growth": 8,
+        "Capital Appreciation (Past 3 Years)": 8,
+        "Expected Capital Appreciation": 7,
+        "Supply-Demand Ratio": 6,
+        "Affordability Index": 2,
+        "Tenant Demand Score": 9
+      },
+      "score": 5.83
+    },
+    "final_score": 7.36
+},
+{
+  "project_name": "Lodha World View",
+  "developer": "Lodha Group",
+  "property_type": "Residential Skyscrapers",
+  "location": {
+    "area": "Worli",
+    "city": "Mumbai",
+    "address": "Lodha World Towers, off Senapati Bapat Marg, Worli, Mumbai, Maharashtra 400013, India",
+    "google_maps_url": "https://maps.google.com/?q=Lodha+World+View+Worli+Mumbai"
+  },
+  "key_dates": {
+    "launch_date": null,
+    "handover_date": "2021-12-01"
+  },
+  "status": "Completed",
+  "height_m": null,
+  "floors_above": 79,
+  "floors_below": null,
+  "architect": null,
+  "structural_engineer": null,
+  "interior_designer": null,
+  "landscape_architect": null,
+  "total_cost_usd": null,
+  "land_area_ac": 17,
+  "unit_configurations": [
+    { "type": "3 BHK", "size_sqft": "1513.5–1704", "units": null,"starting_price_inr_cr":8.9 },
+    { "type": "4 BHK", "size_sqft": "1600.44–2619", "units": null,"starting_price_inr_cr":10.67 },
+    { "type": "5 BHK", "size_sqft": "3508–5500", "units": null ,"starting_price_inr_cr":20.57}
+  ],
+  "pricing": {
+    "apartments_inr_cr": { "min": 8.9, "max": 26.0 },
+    "villas_inr_cr": null,
+    "currency": "INR"
+  },
+  "payment_plan": "Contact Lodha sales team for details; resale options available",
+  "amenities": [
+    "Club W (5-level leisure facility)",
+    "Indoor & Outdoor Swimming Pools",
+    "Kids' Pool",
+    "Gymnasium & Fitness Center",
+    "Spa, Dance & Yoga Studio",
+    "Private Theatre",
+    "Ballroom & Multipurpose Hall",
+    "Indoor Courts (Badminton, Squash, Tennis)",
+    "Rooftop Arena & Athletics Track",
+    "Cricket Ground",
+    "Rock Climbing Wall",
+    "Outdoor Gym & Amphitheater",
+    "Children’s Play Zone",
+    "17-acre Landscaped Estate",
+    "100,000 sq ft Entrance Courtyard",
+    "5-acre Podium Park",
+    "Lotus Pools, Secret Groves",
+    "Garden Pavilion, Water Jets, Herb Garden",
+    "Dog Run, Urban Farms, Ice Cream Parlor",
+    "Library & Art Gallery",
+    "Seating Pods, Juice Bar, Veranda Café"
+  ],
+  "services": [
+    "24/7 Reception & Concierge",
+    "Access-Controlled Elevators",
+    "7-Tier Security System",
+    "Private Lobby & Lounge",
+    "Grand Lobby with The Avenue Dining Walk"
+  ],
+  "location_advantages": {
+    "sea_link": "Quick access to Bandra-Worli Sea Link",
+    "airport": "Approx. 30 min to Mumbai International Airport",
+    "station": "Proximity to Lower Parel Station",
+    "community": "Part of Mumbai Mile, near Racecourse, malls, schools, hospitals, and hotels"
+  },
+  "certifications": ["RERA: P51900008962 (World View), P51900008345 (World One Tier II & Trinity)"],
+  "description": "Lodha World View is the crown jewel of The World Towers—designed with a distinctive cloverleaf footprint and a silver sinuous façade. Located in Worli, Mumbai, this 79-storey luxury skyscraper features ultra-spacious 3–5 BHK homes with curved sundecks offering panoramic sea and city views. Residents enjoy access to Club W, Lodha Place Park, a grand palm-lined avenue, and over 17 acres of curated open space. Built with sustainability and privacy at its core, World View blends iconic architecture with a luxury lifestyle.",
+  "sales_tags": [
+    "sea-view",
+    "luxury landmark",
+    "cloverleaf footprint",
+    "ready to move"
+  ],
+  "sales_agent_metadata": {
+    "inventory_left": 455,
+    "booking_status": "Ready to Move",
+    "priority": "High"
+  },
+  "images": {
+    "exterior": ["turn0image0", "turn0image2"],
+    "amenity": [],
+    "interior": []
+  },
+  "desirability": {
+      "subscores": {
+        "Accessibility to Transport Nodes": 7,
+        "Proximity to Healthcare": 9,
+        "Proximity to Educational Institutions": 5,
+        "Shopping & Daily Needs": 9,
+        "Surrounding Infrastructure Quality": 9,
+        "Social & Recreational Access": 9,
+        "Safety & Noise Environment": 9
+      },
+      "score": 8.76
+    },
+    "investment_grade": {
+      "subscores": {
+        "Rental Yield (Past 3-Year Avg)": 8,
+        "Expected Rental Yield Growth": 8,
+        "Capital Appreciation (Past 3 Years)": 8,
+        "Expected Capital Appreciation": 7,
+        "Supply-Demand Ratio": 6,
+        "Affordability Index": 2,
+        "Tenant Demand Score": 9
+      },
+      "score": 5.83
+    },
+    "final_score": 7.36
+}],
+"certifications": [
+  "MahaRERA: P51800052633 (A,B,C,D wings)"
+]
+
+      },
+      "ConnectivityAndInfrastructure": {
+        "nearest_railway_station": { "name": "Lower Parel Railway Station", "distance_km": 2.5 },
+        "nearest_airport": { "name": "Chhatrapati Shivaji Maharaj International Airport (BOM)", "distance_km": 15 },
+        "top_hospitals": [
+          { "name": "Global Hospital", "distance_km": 1.5 },
+          { "name": "Breach Candy Hospital", "distance_km": 4.5 },
+          { "name": "Jaslok Hospital", "distance_km": 5.0 }
+        ],
+        "top_schools_colleges": [
+          { "name": "Podar International School", "distance_km": 4 },
+          { "name": "Sophia College for Women", "distance_km": 5.5 },
+          { "name": "Cathedral and John Connon School", "distance_km": 6 }
+        ],
+        "major_roads_highways": [
+          { "name": "Worli Sea Link", "distance_km": 0 },
+          { "name": "Annie Besant Road", "distance_km": 0 },
+          { "name": "Dr. E Moses Road", "distance_km": 1 }
+        ],
+        "ongoing_planned_infra_projects": [
+          "Mumbai Coastal Road Project connecting South Mumbai to Western suburbs",
+          "Mumbai Metro Line 3 (Colaba–Bandra–SEEPZ) improving east-west connectivity"
+        ]
+      },
+      "DemographicsAndLifestyle": {
+        "population_density_per_sqkm": 25000,
+        "dominant_professions": ["Business Owners", "C-suite Executives", "Film & Media Professionals"],
+        "average_household_income": "INR 50 lakh+ per annum (upper-income segment)",
+        "liveability_index": 8.0,
+        "safety_index": 8.3,
+        "nearby_attractions": ["Worli Sea Face", "Nehru Planetarium", "Haji Ali Dargah"]
+      },
+      "SentimentAndPerception": {
+        "sentiment_score": "Positive",
+        "common_sentiment_themes": [
+          "Prestigious and centrally located with iconic sea views",
+          "Rising traffic congestion during peak hours",
+          "Premium lifestyle destination with high rental demand and celebrity appeal"
+        ]
+      },
+      "LocalInsights_USPs": [
+        "Strategic location with seamless access to both South and Western Mumbai",
+        "Sea-facing towers and the Bandra-Worli Sea Link define the skyline",
+        "High investor confidence due to luxury branding and top-tier developers"
+      ]
+    },
+     {
+      "name": "Powai",
+      "PricingAndMarketTrends": {
+        "apartment_avg_rate_per_sqft": 36950,
+        "villa_avg_rate_per_sqft": null,
+        "apartment_rental_yield_percent": 2.89,
+        "villa_rental_yield_percent": null,
+        "appreciation_last_4yrs_percent": 22,
+        "projected_appreciation_next_3yrs_percent": 7,
+        "supply_demand_ratio": "Demand > Supply"
+      },
+      "DevelopmentActivity": {
+        "key_developers": [
+          "Hiranandani Communities",
+          "L&T Realty",
+          "Lodha Group",
+          "Raheja Universal"
+        ],
+        "dominant_property_type": "High‑rise lake‑view apartments and integrated township communities",
+        "projects": [
+          {
+            "project_name": "Hiranandani Empress Hill",
+            "developer": "Hiranandani Communities",
+            "property_type": "Residential High‑rise Tower",
+            "location": {
+              "area": "Powai (Hiranandani Gardens)",
+              "city": "Mumbai",
+              "address": "Central Avenue, Hiranandani Gardens, Powai, Mumbai, Maharashtra 400076, India",
+              "google_maps_url": "https://maps.google.com/?q=Hiranandani+Empress+Hill+Powai+Mumbai"
+            },
+            "key_dates": {
+              "launch_date": "2023-09-01",
+              "start_date": "2023-09-01",
+              "completion_date": "2028-12-01"
+            },
+            "status": "Under Construction",
+            "height_m": null,
+            "floors_above": 20,
+            "floors_below": null,
+            "architect": null,
+            "structural_engineer": null,
+            "interior_designer": null,
+            "landscape_architect": null,
+            "total_cost_usd": null,
+            "land_area_ac": 0.76,
+            "unit_configurations": [
+              {
+                "type": "3 BHK",
+                "size_sqft": "1048–1300",
+                "units": null,
+                "starting_price_inr_cr": 5.37
+              },
+              {
+                "type": "4 BHK",
+                "size_sqft": "1300–1579",
+                "units": null,
+                "starting_price_inr_cr": 8.03
+              }
+            ],
+            "pricing": {
+              "apartments_inr_cr": {
+                "min": 5.08,
+                "max": 8.48
+              },
+              "villas_inr_cr": null,
+              "currency": "INR"
+            },
+            "payment_plan": "Custom payment plans available; contact sales team",
+            "amenities": [
+              "Multipurpose courts",
+              "Meditation area",
+              "Amphitheatre",
+              "Jogging track",
+              "Children’s play area",
+              "Swimming pool",
+              "Gymnasium",
+              "Cricket net",
+              "Terrace pool & gym",
+              "Landscaped terrace garden",
+              "Double‑height lobby",
+              "High‑speed elevators",
+              "Mechanised car parking",
+              "CCTV & 24x7 security"
+            ],
+            "services": [
+              "24x7 Security & CCTV",
+              "High‑speed elevators",
+              "Parking management",
+              "Maintenance & housekeeping"
+            ],
+            "location_advantages": {
+              "sea_link": null,
+              "airport": "Approx. 10 km to Chhatrapati Shivaji Maharaj International Airport",
+              "station": "Nearest: Kanjurmarg Railway Station (~2.6 km)",
+              "community": "Close to SEEPZ (5 km), BKC (10 km) and educational institutions like IIT Bombay; well‑connected via JVLR, LBS Marg and Eastern Express Highway"
+            },
+            "certifications": [
+              "MahaRERA: P51800052633"
+            ],
+            "description": "Hiranandani Empress Hill is a luxury 20‑storey tower within the Hiranandani Gardens township. Launched in 2023 and scheduled for completion in Dec 2028, it offers 3 and 4 BHK Vastu‑compliant residences (1048–1579 sq ft) with premium finishes, rooftop pool and gym, landscaped terraces and double‑height lobby, along with mechanised parking and high‑speed elevators. The project is RERA‑registered and part of a well‑developed township with excellent connectivity in Powai.",
+            "sales_tags": [
+              "Vastu‑compliant",
+              "luxury finishes",
+              "rooftop amenities",
+              "under construction"
+            ],
+            "sales_agent_metadata": {
+              "inventory_left": null,
+              "booking_status": "Under Construction",
+              "priority": "Very High"
+            },
+            "images": {
+              "exterior": [],
+              "amenity": [],
+              "interior": []
+            },
+            "desirability": {
+      "subscores": {
+        "Accessibility to Transport Nodes": 7,
+        "Proximity to Healthcare": 10,
+        "Proximity to Educational Institutions": 10,
+        "Shopping & Daily Needs": 9,
+        "Surrounding Infrastructure Quality": 9,
+        "Social & Recreational Access": 9,
+        "Safety & Noise Environment": 9
+      },
+      "score": 9.66
+    },
+    "investment_grade": {
+      "subscores": {
+        "Rental Yield (Past 3-Year Avg)": 6,
+        "Expected Rental Yield Growth": 7,
+        "Capital Appreciation (Past 3 Years)": 7,
+        "Expected Capital Appreciation": 8,
+        "Supply-Demand Ratio": 8,
+        "Affordability Index": 2,
+        "Tenant Demand Score": 8
+      },
+      "score": 5.72
+    },
+    "final_score": 7.72
+          },
+          {
+            "project_name": "L&T Elixir Reserve",
+            "developer": "L&T Realty",
+            "property_type": "Residential Township (Multiple Towers)",
+            "location": {
+              "area": "Powai",
+              "city": "Mumbai",
+              "address": "Saki Vihar Road / AM Naik Tower Road, Krishna Nagar, Powai, Mumbai, Maharashtra 400072, India",
+              "google_maps_url": "https://maps.google.com/?q=L%26T+Elixir+Reserve+Powai+Mumbai"
+            },
+            "key_dates": {
+              "launch_date": "2023-01-01",
+              "start_date": "2023-01-01",
+              "completion_date": "2027-12-01"
+            },
+            "status": "Under Construction",
+            "height_m": null,
+            "floors_above": 25,
+            "floors_below": 2,
+            "architect": null,
+            "structural_engineer": null,
+            "interior_designer": null,
+            "landscape_architect": null,
+            "total_cost_usd": null,
+            "land_area_ac": 60,
+            "unit_configurations": [
+              {
+                "type": "2 BHK",
+                "size_sqft": "715–890",
+                "units": null,
+                "starting_price_inr_cr": 2.8
+              },
+              {
+                "type": "3 BHK",
+                "size_sqft": "1130–1400",
+                "units": null,
+                "starting_price_inr_cr": 3.95
+              },
+              {
+                "type": "4 BHK",
+                "size_sqft": "1968–2197",
+                "units": null,
+                "starting_price_inr_cr": 8.75
+              }
+            ],
+            "pricing": {
+              "apartments_inr_cr": {
+                "min": 2.8,
+                "max": 9.5
+              },
+              "villas_inr_cr": null,
+              "currency": "INR"
+            },
+            "payment_plan": "20:80 payment plan and other flexible options",
+            "amenities": [
+              "Camping site",
+              "Canopy walkway",
+              "Children’s play area",
+              "Cycling track",
+              "Elevated jogging track",
+              "Gym",
+              "Jacuzzi",
+              "Juice bar",
+              "Pet’s corner",
+              "Reflexology path",
+              "Swimming pool",
+              "Tennis court",
+              "Rooftop tennis court",
+              "Squash court",
+              "Futsal court",
+              "Yoga deck",
+              "Library & reading lounge",
+              "Multipurpose hall",
+              "Amphitheatre",
+              "Canopy gardens",
+              "Green terraces"
+            ],
+            "services": [
+              "24x7 Security & CCTV",
+              "Maintenance & housekeeping",
+              "Smart home provisions",
+              "Waste management"
+            ],
+            "location_advantages": {
+              "sea_link": null,
+              "airport": "Approx. 16 min (∼10 km) to Mumbai International Airport",
+              "station": "Sakinaka Metro – 10 min; nearby Kanjurmarg/Bhandup railway stations",
+              "community": "3 min to JVLR; close to SEEPZ, IIT Powai and IIM Mumbai; walking distance to schools, commercial hubs and shopping centres"
+            },
+            "certifications": [
+              "MahaRERA: P51800033984"
+            ],
+            "description": "L&T Elixir Reserve is a 60‑acre township in Powai, featuring multiple 25‑storey towers with 2/3/4 BHK lake‑view homes. Launched in 2023 with possession targeted for 2027, the project offers nature‑inspired living with forest, lake and hillock views. Residents enjoy over 25 lifestyle amenities such as an elevated swimming pool, rooftop tennis and squash courts, camping site and canopy walkways. The project offers a 20:80 payment plan and enjoys excellent connectivity via JVLR, the upcoming metro and proximity to schools, hospitals and corporate hubs.",
+            "sales_tags": [
+              "lake views",
+              "forest living",
+              "elevated pool",
+              "payment plan",
+              "under construction"
+            ],
+            "sales_agent_metadata": {
+              "inventory_left": null,
+              "booking_status": "Open",
+              "priority": "High"
+            },
+            "images": {
+              "exterior": [],
+              "amenity": [],
+              "interior": []
+            },
+             "desirability": {
+      "subscores": {
+        "Accessibility to Transport Nodes": 7,
+        "Proximity to Healthcare": 10,
+        "Proximity to Educational Institutions": 10,
+        "Shopping & Daily Needs": 9,
+        "Surrounding Infrastructure Quality": 9,
+        "Social & Recreational Access": 9,
+        "Safety & Noise Environment": 9
+      },
+      "score": 9.66
+    },
+    "investment_grade": {
+      "subscores": {
+        "Rental Yield (Past 3-Year Avg)": 6,
+        "Expected Rental Yield Growth": 7,
+        "Capital Appreciation (Past 3 Years)": 7,
+        "Expected Capital Appreciation": 8,
+        "Supply-Demand Ratio": 8,
+        "Affordability Index": 2,
+        "Tenant Demand Score": 8
+      },
+      "score": 5.72
+    },
+    "final_score": 7.72
+          },
+          {
+            "project_name": "L&T Barbet",
+            "developer": "L&T Realty",
+            "property_type": "Residential Tower (Tower 6 of Elixir Reserve)",
+            "location": {
+              "area": "Powai (Elixir Reserve)",
+              "city": "Mumbai",
+              "address": "Krishna Nagar, Powai, Mumbai, Maharashtra 400072, India",
+              "google_maps_url": "https://maps.google.com/?q=L%26T+Barbet+Elixir+Reserve+Powai+Mumbai"
+            },
+            "key_dates": {
+              "launch_date": "2025-06-01",
+              "start_date": "2025-06-01",
+              "completion_date": "2029-07-01"
+            },
+            "status": "Under Construction",
+            "height_m": null,
+            "floors_above": 22,
+            "floors_below": 3,
+            "architect": null,
+            "structural_engineer": null,
+            "interior_designer": null,
+            "landscape_architect": null,
+            "total_cost_usd": null,
+            "land_area_ac": 1.79,
+            "unit_configurations": [
+              {
+                "type": "2 BHK",
+                "size_sqft": "715–890",
+                "units": null,
+                "starting_price_inr_cr": 2.75
+              },
+              {
+                "type": "3 BHK",
+                "size_sqft": "1130–1400",
+                "units": null,
+                "starting_price_inr_cr": 4.8
+              }
+            ],
+            "pricing": {
+              "apartments_inr_cr": {
+                "min": 2.75,
+                "max": 4.8
+              },
+              "villas_inr_cr": null,
+              "currency": "INR"
+            },
+            "payment_plan": "Exclusive 20:80 payment plan with ₹11 lakh EOI and early‑bird discounts",
+            "amenities": [
+              "Elevated swimming pool",
+              "Rooftop tennis court",
+              "Squash court",
+              "Yoga room",
+              "Fitness centre",
+              "Kids’ play area",
+              "Jogging/Bicycle track",
+              "Library/Reading lounge",
+              "Half basketball court",
+              "Tennis court",
+              "Landscaped greens",
+              "Multipurpose hall",
+              "Swimming pool",
+              "Pet’s corner"
+            ],
+            "services": [
+              "24x7 Security & CCTV",
+              "Maintenance & housekeeping",
+              "Smart home provisions",
+              "Clubhouse management"
+            ],
+            "location_advantages": {
+              "sea_link": null,
+              "airport": "Approx. 16 min to Mumbai International Airport",
+              "station": "Sakinaka Metro – 10 min; Kanjurmarg station ~3 km",
+              "community": "Within Elixir Reserve township surrounded by forest, lake and hillock; 3 min to JVLR; close to schools, hospitals and business hubs"
+            },
+            "certifications": [
+              "MahaRERA: P51800055625"
+            ],
+            "description": "Barbet is the sixth tower in L&T Elixir Reserve. This 22‑storey tower sits on a 1.79‑acre parcel within the 60‑acre township and offers 2 & 3 BHK flats starting at ₹2.75 Cr. Launched in mid‑2025 with possession slated for July 2029, the tower features a 20:80 payment plan with early‑bird incentives. Residents enjoy 25+ lifestyle amenities including an elevated swimming pool, rooftop tennis court, squash court, yoga room and landscaped greens. The tower is surrounded by a forest and lake setting with excellent connectivity via JVLR and metro stations.",
+            "sales_tags": [
+              "lake‑view tower",
+              "exclusive payment plan",
+              "early‑bird discounts",
+              "under construction"
+            ],
+            "sales_agent_metadata": {
+              "inventory_left": null,
+              "booking_status": "New Launch",
+              "priority": "High"
+            },
+            "images": {
+              "exterior": [],
+              "amenity": [],
+              "interior": []
+            },
+             "desirability": {
+      "subscores": {
+        "Accessibility to Transport Nodes": 7,
+        "Proximity to Healthcare": 10,
+        "Proximity to Educational Institutions": 10,
+        "Shopping & Daily Needs": 9,
+        "Surrounding Infrastructure Quality": 9,
+        "Social & Recreational Access": 9,
+        "Safety & Noise Environment": 9
+      },
+      "score": 9.66
+    },
+    "investment_grade": {
+      "subscores": {
+        "Rental Yield (Past 3-Year Avg)": 6,
+        "Expected Rental Yield Growth": 7,
+        "Capital Appreciation (Past 3 Years)": 7,
+        "Expected Capital Appreciation": 8,
+        "Supply-Demand Ratio": 8,
+        "Affordability Index": 2,
+        "Tenant Demand Score": 8
+      },
+      "score": 5.72
+    },
+    "final_score": 7.72
+          },
+          {
+            "project_name": "Lodha Bellagio",
+            "developer": "Lodha Group (Macrotech Developers Limited)",
+            "property_type": "Residential Twin Towers",
+            "location": {
+              "area": "Powai",
+              "city": "Mumbai",
+              "address": "Gautam Nagar, Ramabai Ambedkar Nagar, Powai, Mumbai, Maharashtra 400076, India",
+              "google_maps_url": "https://maps.google.com/?q=Lodha+Bellagio+Powai+Mumbai"
+            },
+            "key_dates": {
+              "launch_date": "2022-01-01",
+              "start_date": "2022-01-01",
+              "completion_date": "2026-12-01"
+            },
+            "status": "Under Construction",
+            "height_m": null,
+            "floors_above": 24,
+            "floors_below": 2,
+            "architect": "Hafeez Contractor",
+            "structural_engineer": null,
+            "interior_designer": null,
+            "landscape_architect": null,
+            "total_cost_usd": null,
+            "land_area_ac": 6.2,
+            "unit_configurations": [
+              {
+                "type": "1 BHK",
+                "size_sqft": "618",
+                "units": null,
+                "starting_price_inr_cr": 2.26
+              },
+              {
+                "type": "2 BHK",
+                "size_sqft": "750–845",
+                "units": null,
+                "starting_price_inr_cr": 2.75
+              },
+              {
+                "type": "2.5 BHK",
+                "size_sqft": "918",
+                "units": null,
+                "starting_price_inr_cr": 3.49
+              },
+              {
+                "type": "3 BHK",
+                "size_sqft": "1092–1604",
+                "units": null,
+                "starting_price_inr_cr": 4.0
+              },
+              {
+                "type": "3.5 BHK",
+                "size_sqft": "1373",
+                "units": null,
+                "starting_price_inr_cr": 5.51
+              },
+              {
+                "type": "4.5 BHK",
+                "size_sqft": "1614",
+                "units": null,
+                "starting_price_inr_cr": 6.48
+              }
+            ],
+            "pricing": {
+              "apartments_inr_cr": {
+                "min": 2.26,
+                "max": 9.24
+              },
+              "villas_inr_cr": null,
+              "currency": "INR"
+            },
+            "payment_plan": "Construction‑linked and subvention payment plans; contact Lodha for details",
+            "amenities": [
+              "40,000 sq ft open landscapes and greens",
+              "25 m lap pool",
+              "Kids’ pool",
+              "Opulent clubhouse (25,000 sq ft)",
+              "World‑class gymnasium",
+              "Library lounge",
+              "Café",
+              "Squash court",
+              "Badminton court",
+              "Indoor games area (table tennis, pool, carrom, chess)",
+              "Indoor play area for kids",
+              "Outdoor children’s play area",
+              "Sports ground for cricket & football",
+              "Mini basketball court",
+              "Walking/jogging track",
+              "Rooftop lounge with scenic views of Powai & Vihar Lakes"
+            ],
+            "services": [
+              "Saint Amand hospitality services",
+              "Concierge & housekeeping",
+              "Housekeeping & maintenance",
+              "Smart home automation",
+              "7‑tier security system",
+              "Private lobby & lounge"
+            ],
+            "location_advantages": {
+              "sea_link": null,
+              "airport": "Approx. 9 km to Mumbai International Airport (≈16 min)",
+              "station": "2.6 km to Kanjurmarg Railway Station; close to future Metro Line 6",
+              "community": "Proximity to business hubs like ATL Corporate Park (1.5 km) and Supreme Business Park (1 km); near schools (Hiranandani Foundation School 0.3 km, Gopal Sharma Memorial School 0.4 km), malls (DMart 0.4 km, Haiko & Galleria 0.7 km) and parks (Nirvana Park 0.8 km, Deer Park 1.4 km); easy access to Eastern & Western Express Highways"
+            },
+            "certifications": [
+              "MahaRERA: P51800033966",
+              "MahaRERA: P51800034759"
+            ],
+            "description": "Lodha Bellagio is an under‑construction luxury development spread across 6.2 acres in Powai. Designed by Hafeez Contractor with European‑inspired architecture, the twin towers (2 basements + ground + podium + 24 floors) offer limited 1–4.5 BHK homes with grand sundecks and premium finishes. Launched in 2022 with possession scheduled for December 2026, the project features 40,000 sq ft of landscaped open spaces and a 25,000 sq ft Club Elite. Amenities include lap and kids’ pools, sports courts, gymnasium, library, café, rooftop lounge and Saint Amand hospitality services. Situated in Gautam Nagar, it enjoys proximity to business parks, schools, malls and highways.",
+            "sales_tags": [
+              "lake‑view decks",
+              "European architecture",
+              "luxury clubhouse",
+              "under construction"
+            ],
+            "sales_agent_metadata": {
+              "inventory_left": 218,
+              "booking_status": "Under Construction",
+              "priority": "High"
+            },
+            "images": {
+              "exterior": [],
+              "amenity": [],
+              "interior": []
+            },
+             "desirability": {
+      "subscores": {
+        "Accessibility to Transport Nodes": 7,
+        "Proximity to Healthcare": 10,
+        "Proximity to Educational Institutions": 10,
+        "Shopping & Daily Needs": 9,
+        "Surrounding Infrastructure Quality": 9,
+        "Social & Recreational Access": 9,
+        "Safety & Noise Environment": 9
+      },
+      "score": 9.66
+    },
+    "investment_grade": {
+      "subscores": {
+        "Rental Yield (Past 3-Year Avg)": 6,
+        "Expected Rental Yield Growth": 7,
+        "Capital Appreciation (Past 3 Years)": 7,
+        "Expected Capital Appreciation": 8,
+        "Supply-Demand Ratio": 8,
+        "Affordability Index": 2,
+        "Tenant Demand Score": 8
+      },
+      "score": 5.72
+    },
+    "final_score": 7.72
+          }
+        ]
+      },
+      "ConnectivityAndInfrastructure": {
+        "nearest_railway_station": {
+          "name": "Kanjurmarg Railway Station",
+          "distance_km": 2.6
+        },
+        "nearest_airport": {
+          "name": "Chhatrapati Shivaji Maharaj International Airport (BOM)",
+          "distance_km": 9
+        },
+        "top_hospitals": [
+          {
+            "name": "Hiranandani Hospital Powai",
+            "distance_km": 0.5
+          },
+          {
+            "name": "Seven Hills Hospital",
+            "distance_km": 2.0
+          },
+          {
+            "name": "Dr L H Hiranandani Hospital",
+            "distance_km": 0.5
+          }
+        ],
+        "top_schools_colleges": [
+          {
+            "name": "Hiranandani Foundation School",
+            "distance_km": 0.3
+          },
+          {
+            "name": "Gopal Sharma Memorial School",
+            "distance_km": 0.4
+          },
+          {
+            "name": "IIT Bombay",
+            "distance_km": 1.0
+          },
+          {
+            "name": "National Institute of Industrial Engineering (NITIE)",
+            "distance_km": 2.2
+          }
+        ],
+        "major_roads_highways": [
+          {
+            "name": "Jogeshwari–Vikhroli Link Road (JVLR)",
+            "distance_km": 0
+          },
+          {
+            "name": "Saki Vihar Road",
+            "distance_km": 0
+          },
+          {
+            "name": "Eastern Express Highway",
+            "distance_km": 3
+          }
+        ],
+        "ongoing_planned_infra_projects": [
+          "Mumbai Metro Line 6 (Lokhandwala–Vikhroli via Powai)",
+          "Goregaon–Mulund Link Road (GMLR) improving east–west connectivity"
+        ]
+      },
+      "DemographicsAndLifestyle": {
+        "population_density_per_sqkm": 21000,
+        "dominant_professions": [
+          "IT & technology professionals",
+          "Banking/finance executives",
+          "Entrepreneurs & start‑up founders"
+        ],
+        "average_household_income": "INR 35 lakh+ per annum (upper‑middle to upper income segment)",
+        "liveability_index": 8.2,
+        "safety_index": 8.5,
+        "nearby_attractions": [
+          "Powai Lake",
+          "Hiranandani Gardens & Galleria Mall",
+          "Nirvana Park",
+          "Hakone Entertainment Zone"
+        ]
+      },
+      "SentimentAndPerception": {
+        "sentiment_score": "Positive",
+        "common_sentiment_themes": [
+          "Serene lakeside living with quality schools and business parks",
+          "Rising traffic congestion and high property prices",
+          "Strong rental demand due to students and professionals"
+        ]
+      },
+      "LocalInsights_USPs": [
+        "Scenic Powai Lake and integrated township create a self‑sufficient micro‑market",
+        "Proximity to IIT Bombay, NITIE and leading business parks fosters high rental demand",
+        "Excellent connectivity via JVLR and upcoming Metro Line 6 ensures easy access to Western and Central Mumbai"
+      ]
+    },
+    [
+  {
+    "name": "Andheri West",
+    "PricingAndMarketTrends": {
+      "apartment_avg_rate_per_sqft": 28414,
+      "villa_avg_rate_per_sqft": null,
+      "apartment_rental_yield_percent": 3.9,
+      "villa_rental_yield_percent": null,
+      "appreciation_last_4yrs_percent": 20,
+      "projected_appreciation_next_3yrs_percent": 8,
+      "supply_demand_ratio": "Demand > Supply"
+    },
+    "DevelopmentActivity": {
+      "key_developers": [
+        "Oberoi Realty",
+        "Raheja Universal",
+        "Kanakia Group",
+        "Runwal Group"
+      ],
+      "dominant_property_type": "High‑rise apartments, premium residences and mixed‑use townships",
+      "projects": []
+    },
+    "ConnectivityAndInfrastructure": {
+      "nearest_railway_station": {
+        "name": "Jogeshwari railway station",
+        "distance_km": 1.95
+      },
+      "nearest_airport": {
+        "name": "Chhatrapati Shivaji Maharaj International Airport (BOM)",
+        "distance_km": 5.54
+      },
+      "top_hospitals": [
+        { "name": "CritiCare Asia Multispeciality Hospital", "distance_km": null },
+        { "name": "BSES MG Hospital", "distance_km": null },
+        { "name": "Bellevue Multispeciality Hospital", "distance_km": null }
+      ],
+      "top_schools_colleges": [
+        { "name": "JBCN International School", "distance_km": null },
+        { "name": "C.P. Goenka International School", "distance_km": null },
+        { "name": "Billabong High International School", "distance_km": null }
+      ],
+      "major_roads_highways": [
+        { "name": "Western Express Highway", "distance_km": 0 },
+        { "name": "Swami Vivekanand (SV) Road", "distance_km": 0 },
+        { "name": "Versova–Andheri–Ghatkopar Metro Line 1", "distance_km": 0 }
+      ],
+      "ongoing_planned_infra_projects": [
+        "Metro Lines 2A and 7 improving east–west & north–south connectivity",
+        "Coastal Road extension to Andheri",
+        "Redevelopment of link road and storm‑water drainage"
+      ]
+    },
+    "DemographicsAndLifestyle": {
+      "population_density_per_sqkm": 24608,
+      "dominant_professions": [
+        "Entertainment & media professionals",
+        "IT & software engineers",
+        "Banking and finance executives"
+      ],
+      "average_household_income": "INR 30–35 lakh per annum (upper‑middle segment)",
+      "liveability_index": 8.0,
+      "safety_index": 5.59,
+      "nearby_attractions": [
+        "Versova Beach",
+        "Lokhandwala Complex",
+        "Infinity Mall"
+      ]
+    },
+    "SentimentAndPerception": {
+      "sentiment_score": "Positive",
+      "common_sentiment_themes": [
+        "Vibrant nightlife and cosmopolitan culture",
+        "Excellent road and metro connectivity",
+        "Crowded streets and rising property prices"
+      ]
+    },
+    "LocalInsights_USPs": [
+      "Hub for film & television industry with studios and creative companies",
+      "Link Road and metro corridors create seamless east–west mobility",
+      "Strong rental demand from working professionals due to proximity to business parks"
+    ]
+  },
+  {
+    "name": "Lower Parel",
+    "PricingAndMarketTrends": {
+      "apartment_avg_rate_per_sqft": 53000,
+      "villa_avg_rate_per_sqft": null,
+      "apartment_rental_yield_percent": 5.0,
+      "villa_rental_yield_percent": null,
+      "appreciation_last_4yrs_percent": 34,
+      "projected_appreciation_next_3yrs_percent": 6,
+      "supply_demand_ratio": "Demand > Supply"
+    },
+    "DevelopmentActivity": {
+      "key_developers": [
+        "Lodha Group",
+        "Indiabulls Real Estate",
+        "Tata Housing",
+        "DLF"
+      ],
+      "dominant_property_type": "Luxury high‑rise apartments and mixed‑use commercial towers",
+      "projects": []
+    },
+    "ConnectivityAndInfrastructure": {
+      "nearest_railway_station": {
+        "name": "Lower Parel Station (Western Line)",
+        "distance_km": 0
+      },
+      "nearest_airport": {
+        "name": "Chhatrapati Shivaji Maharaj International Airport (BOM)",
+        "distance_km": 10
+      },
+      "top_hospitals": [
+        { "name": "King Edward Memorial (KEM) Hospital", "distance_km": null },
+        { "name": "Tata Memorial Hospital", "distance_km": null },
+        { "name": "Global Hospital", "distance_km": null }
+      ],
+      "top_schools_colleges": [
+        { "name": "Holy Cross High School", "distance_km": null },
+        { "name": "St Xavier’s High School", "distance_km": null },
+        { "name": "R.A. Podar College of Commerce and Economics", "distance_km": null }
+      ],
+      "major_roads_highways": [
+        { "name": "Senapati Bapat Marg (Tulsi Pipe Road)", "distance_km": 0 },
+        { "name": "Bandra–Worli Sea Link", "distance_km": 3 },
+        { "name": "Eastern Express Highway", "distance_km": 4 }
+      ],
+      "ongoing_planned_infra_projects": [
+        "Mumbai Coastal Road enhancing access to South Mumbai:contentReference[oaicite:0]{index=0}",
+        "Metro Line 3 (Colaba–Bandra–SEEPZ) with a station at Worli",
+        "Planned monorail and rail network upgrades"
+      ]
+    },
+    "DemographicsAndLifestyle": {
+      "population_density_per_sqkm": 25000,
+      "dominant_professions": [
+        "Corporate executives (BFSI & media)",
+        "Entrepreneurs and start‑up founders",
+        "Retail and service sector professionals"
+      ],
+      "average_household_income": "INR 45 lakh+ per annum (affluent segment)",
+      "liveability_index": 8.5,
+      "safety_index": 5.59,
+      "nearby_attractions": [
+        "High Street Phoenix & Palladium Mall",
+        "Kamala Mills entertainment precinct",
+        "Worli Sea Face"
+      ]
+    },
+    "SentimentAndPerception": {
+      "sentiment_score": "Positive",
+      "common_sentiment_themes": [
+        "Upmarket lifestyle with world‑class malls and restaurants",
+        "Central location with easy access to South and Western suburbs",
+        "Traffic congestion and noise from ongoing construction"
+      ]
+    },
+    "LocalInsights_USPs": [
+      "An emerging CBD with Grade‑A offices and premium housing",
+      "Proximity to Bandra–Worli Sea Link & upcoming coastal road improves connectivity",
+      "Lifestyle amenities such as luxury malls, gourmet dining and nightlife"
+    ]
+  },
+  {
+    "name": "Bandra West",
+    "PricingAndMarketTrends": {
+      "apartment_avg_rate_per_sqft": 48121,
+      "villa_avg_rate_per_sqft": null,
+      "apartment_rental_yield_percent": 2.0,
+      "villa_rental_yield_percent": 4.5,
+      "appreciation_last_4yrs_percent": 8,
+      "projected_appreciation_next_3yrs_percent": 5,
+      "supply_demand_ratio": "Demand > Supply"
+    },
+    "DevelopmentActivity": {
+      "key_developers": [
+        "Rustomjee",
+        "Kalpataru",
+        "K Raheja Corp",
+        "Supreme Universal"
+      ],
+      "dominant_property_type": "Upscale sea‑view apartments and heritage bungalows",
+      "projects": []
+    },
+    "ConnectivityAndInfrastructure": {
+      "nearest_railway_station": {
+        "name": "Bandra Station (Western & Harbour Line)",
+        "distance_km": 0
+      },
+      "nearest_airport": {
+        "name": "Chhatrapati Shivaji Maharaj International Airport (BOM)",
+        "distance_km": 10
+      },
+      "top_hospitals": [
+        { "name": "Lilavati Hospital & Research Centre", "distance_km": null },
+        { "name": "P.D. Hinduja Hospital", "distance_km": null },
+        { "name": "Holy Family Hospital", "distance_km": null }
+      ],
+      "top_schools_colleges": [
+        { "name": "St Stanislaus High School", "distance_km": null },
+        { "name": "Arya Vidya Mandir High School", "distance_km": null },
+        { "name": "St Theresa High School", "distance_km": null }
+      ],
+      "major_roads_highways": [
+        { "name": "Western Express Highway", "distance_km": 2 },
+        { "name": "Bandra‑Worli Sea Link", "distance_km": 1 },
+        { "name": "Sion–Bandra Link Road", "distance_km": 0 }
+      ],
+      "ongoing_planned_infra_projects": [
+        "Mumbai Metro Line 2B (DN Nagar–Mandale) passing through Bandra",
+        "Metro Line 3 improving connectivity to Cuffe Parade and SEEPZ",
+        "Re-development of Bandra Reclamation & coastal promenade"
+      ]
+    },
+    "DemographicsAndLifestyle": {
+      "population_density_per_sqkm": 33736,
+      "dominant_professions": [
+        "Entertainment and media personalities",
+        "Corporate executives and entrepreneurs",
+        "Expats and diplomatic staff"
+      ],
+      "average_household_income": "INR 40 lakh+ per annum (affluent segment)",
+      "liveability_index": 8.5,
+      "safety_index": 5.59,
+      "nearby_attractions": [
+        "Bandra Bandstand and Sea Link promenade",
+        "Mount Mary Church & Bandra Fort",
+        "Carter Road cafés and street art"
+      ]
+    },
+    "SentimentAndPerception": {
+      "sentiment_score": "Positive",
+      "common_sentiment_themes": [
+        "Trendy social scene and cultural hub with cafés and nightlife",
+        "Easy access to the sea and promenades",
+        "High property prices and gentrification pressures"
+      ]
+    },
+    "LocalInsights_USPs": [
+      "Known as the \"Queen of the Suburbs\"—home to many celebrities",
+      "Excellent connectivity via Sea Link and forthcoming metro corridors:contentReference[oaicite:1]{index=1}",
+      "High rental demand from expatriates and corporate executives due to prime location:contentReference[oaicite:2]{index=2}"
+    ]
+  },
+  {
+    "name": "Chembur",
+    "PricingAndMarketTrends": {
+      "apartment_avg_rate_per_sqft": 31800,
+      "villa_avg_rate_per_sqft": null,
+      "apartment_rental_yield_percent": 4.1,
+      "villa_rental_yield_percent": null,
+      "appreciation_last_4yrs_percent": 20,
+      "projected_appreciation_next_3yrs_percent": 6,
+      "supply_demand_ratio": "Demand > Supply"
+    },
+    "DevelopmentActivity": {
+      "key_developers": [
+        "Godrej Properties",
+        "Tata Housing",
+        "Runwal Group",
+        "Prestige Group"
+      ],
+      "dominant_property_type": "Mid‑range and premium apartments in integrated townships",
+      "projects": []
+    },
+    "ConnectivityAndInfrastructure": {
+      "nearest_railway_station": {
+        "name": "Chembur Railway Station (Central Line)",
+        "distance_km": 0.56
+      },
+      "nearest_airport": {
+        "name": "Chhatrapati Shivaji Maharaj International Airport (BOM)",
+        "distance_km": 10
+      },
+      "top_hospitals": [
+        { "name": "Apollo Spectra Hospital", "distance_km": null },
+        { "name": "Surana Sethia Hospital", "distance_km": null },
+        { "name": "Zen Hospital", "distance_km": null }
+      ],
+      "top_schools_colleges": [
+        { "name": "K J Somaiya School & College", "distance_km": null },
+        { "name": "Loreto Convent School", "distance_km": null },
+        { "name": "Ryan International School", "distance_km": null }
+      ],
+      "major_roads_highways": [
+        { "name": "Eastern Express Highway", "distance_km": 0 },
+        { "name": "Sion–Panvel Expressway", "distance_km": 0 },
+        { "name": "Santacruz–Chembur Link Road (SCLR)", "distance_km": 0 }
+      ],
+      "ongoing_planned_infra_projects": [
+        "Mumbai Metro Line 2B & Line 4 improving east–west and north–south connectivity",
+        "Goregaon–Mulund Link Road (GMLR) to ease traffic:contentReference[oaicite:3]{index=3}",
+        "Redevelopment of industrial precincts and new monorail corridors:contentReference[oaicite:4]{index=4}"
+      ]
+    },
+    "DemographicsAndLifestyle": {
+      "population_density_per_sqkm": 25454,
+      "dominant_professions": [
+        "Manufacturing & logistics professionals",
+        "IT and BFSI executives",
+        "Retail and service industry workers"
+      ],
+      "average_household_income": "INR 31 lakh per annum (as per 6figr salary data)",
+      "liveability_index": 8.5,
+      "safety_index": 5.59,
+      "nearby_attractions": [
+        "Diamond Garden & Gandhi Maidan",
+        "Chembur Gymkhana",
+        "K Star Mall"
+      ]
+    },
+    "SentimentAndPerception": {
+      "sentiment_score": "Positive",
+      "common_sentiment_themes": [
+        "Strategic connectivity to BKC, Navi Mumbai and South Mumbai:contentReference[oaicite:5]{index=5}",
+        "Good schools and hospitals in a self‑sufficient micro‑market:contentReference[oaicite:6]{index=6}",
+        "Lingering industrial pollution and traffic congestion"
+      ]
+    },
+    "LocalInsights_USPs": [
+      "Affordable relative to central Mumbai yet offering strong rental yields:contentReference[oaicite:7]{index=7}",
+      "Well‑connected via Eastern Express Highway, Sion‑Panvel Expressway & SCLR:contentReference[oaicite:8]{index=8}",
+      "Ongoing metro lines and monorail networks will drive further appreciation:contentReference[oaicite:9]{index=9}"
+    ]
+  },
+  {
+    "name": "Malad West",
+    "PricingAndMarketTrends": {
+      "apartment_avg_rate_per_sqft": 17450,
+      "villa_avg_rate_per_sqft": null,
+      "apartment_rental_yield_percent": 8.0,
+      "villa_rental_yield_percent": null,
+      "appreciation_last_4yrs_percent": 9.2,
+      "projected_appreciation_next_3yrs_percent": 12,
+      "supply_demand_ratio": "Demand > Supply"
+    },
+    "DevelopmentActivity": {
+      "key_developers": [
+        "Oberoi Realty",
+        "Raheja Universal",
+        "Kalpataru Group",
+        "Sheth Creators"
+      ],
+      "dominant_property_type": "Mid‑range to premium residential towers near beaches and IT parks",
+      "projects": []
+    },
+    "ConnectivityAndInfrastructure": {
+      "nearest_railway_station": {
+        "name": "Malad Railway Station (Western Line)",
+        "distance_km": 2.45
+      },
+      "nearest_airport": {
+        "name": "Chhatrapati Shivaji Maharaj International Airport (BOM)",
+        "distance_km": 9.29
+      },
+      "top_hospitals": [
+        { "name": "Fortis Hospital (Mulund) – accessible via Eastern Express Highway", "distance_km": null },
+        { "name": "Apex Hospital", "distance_km": null },
+        { "name": "Namaha Hospital", "distance_km": null }
+      ],
+      "top_schools_colleges": [
+        { "name": "VIBGYOR High School", "distance_km": null },
+        { "name": "Jawahar Vidyalaya", "distance_km": null },
+        { "name": "IB Patel School", "distance_km": null }
+      ],
+      "major_roads_highways": [
+        { "name": "Western Express Highway", "distance_km": 0 },
+        { "name": "Link Road", "distance_km": 0 },
+        { "name": "Goregaon–Mulund Link Road (GMLR)", "distance_km": 0 }
+      ],
+      "ongoing_planned_infra_projects": [
+        "Mumbai Coastal Road extension improving access to South Mumbai:contentReference[oaicite:10]{index=10}",
+        "Metro Lines 2A and 2B connecting Dahisar to Mandale:contentReference[oaicite:11]{index=11}",
+        "Redevelopment of Malad–Marve Road and expansion of Mindspace business district"
+      ]
+    },
+    "DemographicsAndLifestyle": {
+      "population_density_per_sqkm": 17311,
+      "dominant_professions": [
+        "IT & BPO professionals (Mindspace and Infinity IT Park)",
+        "Retail and e‑commerce workers",
+        "Entertainment & media professionals"
+      ],
+      "average_household_income": "INR 25–30 lakh per annum (upper‑middle segment)",
+      "liveability_index": 7.8,
+      "safety_index": 5.59,
+      "nearby_attractions": [
+        "Marve Beach & Aksa Beach",
+        "Inorbit Mall and Infinity Mall",
+        "Malad Mangrove Boardwalk"
+      ]
+    },
+    "SentimentAndPerception": {
+      "sentiment_score": "Positive",
+      "common_sentiment_themes": [
+        "Upcoming metro lines and coastal road will boost connectivity:contentReference[oaicite:12]{index=12}",
+        "Affordable compared with western suburbs like Bandra",
+        "Overcrowding and traffic on Link Road"
+      ]
+    },
+    "LocalInsights_USPs": [
+      "Home to Mindspace IT park attracting young professionals:contentReference[oaicite:13]{index=13}",
+      "Proximity to beaches and green spaces offers balanced lifestyle:contentReference[oaicite:14]{index=14}",
+      "High rental yields (~8%) make it attractive for investors:contentReference[oaicite:15]{index=15}"
+    ]
+  },
+  {
+    "name": "Ghatkopar",
+    "PricingAndMarketTrends": {
+      "apartment_avg_rate_per_sqft": 28150,
+      "villa_avg_rate_per_sqft": null,
+      "apartment_rental_yield_percent": 8.0,
+      "villa_rental_yield_percent": null,
+      "appreciation_last_4yrs_percent": 20,
+      "projected_appreciation_next_3yrs_percent": 7,
+      "supply_demand_ratio": "Demand > Supply"
+    },
+    "DevelopmentActivity": {
+      "key_developers": [
+        "Kalpataru Group",
+        "Godrej Properties",
+        "HDIL",
+        "Wadhwa Group"
+      ],
+      "dominant_property_type": "Redeveloped housing societies and high‑rise apartments",
+      "projects": []
+    },
+    "ConnectivityAndInfrastructure": {
+      "nearest_railway_station": {
+        "name": "Ghatkopar Railway & Metro Station (Central & Metro 1 line)",
+        "distance_km": 0.55
+      },
+      "nearest_airport": {
+        "name": "Chhatrapati Shivaji Maharaj International Airport (BOM)",
+        "distance_km": 6.9
+      },
+      "top_hospitals": [
+        { "name": "Rajawadi Hospital", "distance_km": null },
+        { "name": "Zynova Shalby Hospital", "distance_km": null },
+        { "name": "Shantiniketan Hospital", "distance_km": null }
+      ],
+      "top_schools_colleges": [
+        { "name": "The Somaiya School", "distance_km": null },
+        { "name": "Ramniranjan Jhunjhunwala College", "distance_km": null },
+        { "name": "Saraswati Vidya Niketan", "distance_km": null }
+      ],
+      "major_roads_highways": [
+        { "name": "Eastern Express Highway", "distance_km": 0 },
+        { "name": "LBS Marg", "distance_km": 0 },
+        { "name": "Andheri–Ghatkopar Link Road", "distance_km": 0 }
+      ],
+      "ongoing_planned_infra_projects": [
+        "Metro Line 4 (Wadala–Kasarvadavali) improving east–west connectivity",
+        "Extension of Metro Line 1 and Ghatkopar–Thane corridor",
+        "Redevelopment of LBS Road and improved pedestrian infrastructure"
+      ]
+    },
+    "DemographicsAndLifestyle": {
+      "population_density_per_sqkm": 37200,
+      "dominant_professions": [
+        "Retail & wholesale traders",
+        "Manufacturing & textile workers",
+        "Service sector professionals"
+      ],
+      "average_household_income": "INR 25 lakh per annum (middle‑class segment)",
+      "liveability_index": 7.5,
+      "safety_index": 5.59,
+      "nearby_attractions": [
+        "R City Mall",
+        "Phoenix Market City",
+        "Jagadish Nagar & Garodia Nagar parks"
+      ]
+    },
+    "SentimentAndPerception": {
+      "sentiment_score": "Positive",
+      "common_sentiment_themes": [
+        "Excellent metro & road connectivity linking central and western suburbs:contentReference[oaicite:16]{index=16}",
+        "Ongoing redevelopment transforming old chawls into modern towers",
+        "Traffic congestion and limited parking space"
+      ]
+    },
+    "LocalInsights_USPs": [
+      "Major transit hub at the junction of Central Railway, Metro 1 & East‑West highways:contentReference[oaicite:17]{index=17}",
+      "Affordable compared with Powai and Vikhroli, yet offering high rental yields (≈8%):contentReference[oaicite:18]{index=18}",
+      "Rich Gujarati & Maharashtrian community culture with thriving markets"
+    ]
+  },
+  {
+    "name": "Santacruz East",
+    "PricingAndMarketTrends": {
+      "apartment_avg_rate_per_sqft": 24550,
+      "villa_avg_rate_per_sqft": null,
+      "apartment_rental_yield_percent": 7.0,
+      "villa_rental_yield_percent": null,
+      "appreciation_last_4yrs_percent": 11,
+      "projected_appreciation_next_3yrs_percent": 10,
+      "supply_demand_ratio": "Demand > Supply"
+    },
+    "DevelopmentActivity": {
+      "key_developers": [
+        "Kalpataru",
+        "Kanakia Group",
+        "Shapoorji Pallonji",
+        "Godrej Properties"
+      ],
+      "dominant_property_type": "Mid‑rise apartments and redevelopment projects",
+      "projects": []
+    },
+    "ConnectivityAndInfrastructure": {
+      "nearest_railway_station": {
+        "name": "Santacruz Railway Station (Western Line)",
+        "distance_km": 0
+      },
+      "nearest_airport": {
+        "name": "Chhatrapati Shivaji Maharaj International Airport (BOM)",
+        "distance_km": 3
+      },
+      "top_hospitals": [
+        { "name": "Ramakrishna Mission Hospital", "distance_km": null },
+        { "name": "Nanavati Max Hospital", "distance_km": 2 },
+        { "name": "Guru Nanak Hospital", "distance_km": null }
+      ],
+      "top_schools_colleges": [
+        { "name": "Podar International School", "distance_km": null },
+        { "name": "St. Charles High School", "distance_km": null },
+        { "name": "Patuck Technical High School", "distance_km": null }
+      ],
+      "major_roads_highways": [
+        { "name": "Western Express Highway", "distance_km": 0 },
+        { "name": "Santacruz–Chembur Link Road (SCLR)", "distance_km": 0 },
+        { "name": "Bandra–Kurla Complex Road", "distance_km": 0 }
+      ],
+      "ongoing_planned_infra_projects": [
+        "Mumbai Metro Line 3 (Colaba–Bandra–SEEPZ) station at Santacruz",
+        "Extension of Western Express Highway flyovers",
+        "Redevelopment of airport–adjacent areas and skywalks"
+      ]
+    },
+    "DemographicsAndLifestyle": {
+      "population_density_per_sqkm": 35000,
+      "dominant_professions": [
+        "Aviation & airline staff",
+        "Corporate executives and professionals",
+        "Retail & hospitality workers"
+      ],
+      "average_household_income": "INR 30–35 lakh per annum (upper‑middle segment)",
+      "liveability_index": 7.9,
+      "safety_index": 5.59,
+      "nearby_attractions": [
+        "Juhu Garden & Beach (west side)",
+        "Milan Subway shopping districts",
+        "Santacruz Market"
+      ]
+    },
+    "SentimentAndPerception": {
+      "sentiment_score": "Positive",
+      "common_sentiment_themes": [
+        "Central location with quick access to airport and BKC:contentReference[oaicite:19]{index=19}",
+        "Steady rental yields (6–8%) with redevelopment potential:contentReference[oaicite:20]{index=20}",
+        "Noise from air traffic and congested streets"
+      ]
+    },
+    "LocalInsights_USPs": [
+      "Proximity to Mumbai Airport makes it ideal for frequent fliers",
+      "Redevelopment and infrastructure upgrades drive appreciation (8–12% expected):contentReference[oaicite:21]{index=21}",
+      "Easy access to BKC and Western Express Highway for commuters"
+    ]
+  },
+  {
+    "name": "Santacruz West",
+    "PricingAndMarketTrends": {
+      "apartment_avg_rate_per_sqft": 38750,
+      "villa_avg_rate_per_sqft": null,
+      "apartment_rental_yield_percent": 10.0,
+      "villa_rental_yield_percent": null,
+      "appreciation_last_4yrs_percent": 15,
+      "projected_appreciation_next_3yrs_percent": 12,
+      "supply_demand_ratio": "Demand > Supply"
+    },
+    "DevelopmentActivity": {
+      "key_developers": [
+        "Rustomjee",
+        "Ekta World",
+        "Shapoorji Pallonji",
+        "Kalpataru"
+      ],
+      "dominant_property_type": "High‑end condos and luxury low‑rise apartments",
+      "projects": []
+    },
+    "ConnectivityAndInfrastructure": {
+      "nearest_railway_station": {
+        "name": "Santacruz Railway Station (Western Line)",
+        "distance_km": 0.41
+      },
+      "nearest_airport": {
+        "name": "Chhatrapati Shivaji Maharaj International Airport (BOM)",
+        "distance_km": 2.67
+      },
+      "top_hospitals": [
+        { "name": "Nanavati Max Super Speciality Hospital", "distance_km": 2 },
+        { "name": "Saroj Hospital", "distance_km": null },
+        { "name": "Surya Hospital", "distance_km": null }
+      ],
+      "top_schools_colleges": [
+        { "name": "Podar International School", "distance_km": null },
+        { "name": "Smt. Lilavatibai Podar High School", "distance_km": null },
+        { "name": "SNDT Women’s University", "distance_km": null }
+      ],
+      "major_roads_highways": [
+        { "name": "Western Express Highway", "distance_km": 0 },
+        { "name": "Linking Road", "distance_km": 0 },
+        { "name": "Bandra–Worli Sea Link", "distance_km": 2 }
+      ],
+      "ongoing_planned_infra_projects": [
+        "Metro Line 2B connecting DN Nagar to Mandale",
+        "Extension of Linking Road with cycling tracks",
+        "Coastal Road connections improving access to South Mumbai"
+      ]
+    },
+    "DemographicsAndLifestyle": {
+      "population_density_per_sqkm": 47431,
+      "dominant_professions": [
+        "High‑income corporate executives & entrepreneurs",
+        "Film & entertainment industry personalities",
+        "NRIs and expatriates"
+      ],
+      "average_household_income": "INR 50 lakh+ per annum (premium segment)",
+      "liveability_index": 8.8,
+      "safety_index": 5.59,
+      "nearby_attractions": [
+        "Juhu Beach & Prithvi Theatre",
+        "Linking Road shopping district",
+        "High‑end cafés and restaurants"
+      ]
+    },
+    "SentimentAndPerception": {
+      "sentiment_score": "Positive",
+      "common_sentiment_themes": [
+        "Premium lifestyle with luxury amenities and clubs",
+        "Excellent connectivity to Sea Link and Western suburbs:contentReference[oaicite:22]{index=22}",
+        "Very high property prices and limited inventory"
+      ]
+    },
+    "LocalInsights_USPs": [
+      "One of Mumbai’s most sought‑after upscale neighbourhoods with heritage bungalows and luxury apartments",
+      "High rental yields (8–14%) and strong appreciation potential:contentReference[oaicite:23]{index=23}:contentReference[oaicite:24]{index=24}",
+      "Proximity to Juhu & Bandra offers vibrant social life and celebrity presence"
+    ]
+  },
+  {
+    "name": "Mulund",
+    "PricingAndMarketTrends": {
+      "apartment_avg_rate_per_sqft": 23500,
+      "villa_avg_rate_per_sqft": null,
+      "apartment_rental_yield_percent": 3.5,
+      "villa_rental_yield_percent": null,
+      "appreciation_last_4yrs_percent": 13.9,
+      "projected_appreciation_next_3yrs_percent": 9,
+      "supply_demand_ratio": "Demand > Supply"
+    },
+    "DevelopmentActivity": {
+      "key_developers": [
+        "Oberoi Realty",
+        "Kalpataru",
+        "Marathon Group",
+        "Wadhwa Group"
+      ],
+      "dominant_property_type": "Mid‑to‑high rise apartments and gated communities",
+      "projects": []
+    },
+    "ConnectivityAndInfrastructure": {
+      "nearest_railway_station": {
+        "name": "Mulund Railway Station (Central Line)",
+        "distance_km": 0
+      },
+      "nearest_airport": {
+        "name": "Chhatrapati Shivaji Maharaj International Airport (BOM)",
+        "distance_km": 18
+      },
+      "top_hospitals": [
+        { "name": "Fortis Hospital", "distance_km": null },
+        { "name": "Apex Hospital", "distance_km": null },
+        { "name": "Hira Mongi Navneet Hospital", "distance_km": null }
+      ],
+      "top_schools_colleges": [
+        { "name": "NES International School", "distance_km": null },
+        { "name": "Billabong High International School", "distance_km": null },
+        { "name": "Mulund College of Commerce", "distance_km": null }
+      ],
+      "major_roads_highways": [
+        { "name": "Eastern Express Highway", "distance_km": 0 },
+        { "name": "LBS Road", "distance_km": 0 },
+        { "name": "Goregaon–Mulund Link Road (GMLR)", "distance_km": 0 }
+      ],
+      "ongoing_planned_infra_projects": [
+        "Metro Line 4 (Wadala–Kasarvadavali) boosting east–west connectivity:contentReference[oaicite:25]{index=25}",
+        "Goregaon–Mulund Link Road expected to decongest traffic:contentReference[oaicite:26]{index=26}",
+        "Metro Line 5 and redevelopment of industrial pockets driving future growth:contentReference[oaicite:27]{index=27}"
+      ]
+    },
+    "DemographicsAndLifestyle": {
+      "population_density_per_sqkm": 17311,
+      "dominant_professions": [
+        "IT & consulting professionals (commuting to BKC/Powai/Thane)",
+        "Manufacturing and pharmaceutical employees",
+        "Retail & service sector workers"
+      ],
+      "average_household_income": "INR 20–25 lakh per annum (middle‑class segment)",
+      "liveability_index": 8.0,
+      "safety_index": 5.59,
+      "nearby_attractions": [
+        "Sanjay Gandhi National Park (nearby Airoli gate)",
+        "R Mall & Neptune Magnet Mall",
+        "Tree‑lined jogging tracks and gardens"
+      ]
+    },
+    "SentimentAndPerception": {
+      "sentiment_score": "Positive",
+      "common_sentiment_themes": [
+        "Balanced lifestyle with green spaces and good social infrastructure:contentReference[oaicite:28]{index=28}",
+        "Upcoming metro and road projects promise better connectivity:contentReference[oaicite:29]{index=29}:contentReference[oaicite:30]{index=30}",
+        "Moderate rental yields (2.8%–3.5%) but steady capital appreciation:contentReference[oaicite:31]{index=31}"
+      ]
+    },
+    "LocalInsights_USPs": [
+      "Known as the \"Prince of Suburbs\" with a blend of old‑world charm and modern development:contentReference[oaicite:32]{index=32}",
+      "Excellent connectivity via Eastern Express Highway, LBS Road and forthcoming Metro Line 4:contentReference[oaicite:33]{index=33}",
+      "Strong community living with reputed schools and hospitals and steady price growth (8–12% expected):contentReference[oaicite:34]{index=34}"
+    ]
+  }
+]
+
+  ]
+}
